@@ -1,7 +1,6 @@
 ### Prazer! Eu sou o Marcos Vinícius
 ##
 - 👩‍💻 Desenvolvedor Front-End
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas
 - 📚 Estudando ReactJs
 
 ##
