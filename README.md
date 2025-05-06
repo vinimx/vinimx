@@ -1,25 +1,29 @@
-### Prazer! Eu sou o Marcos Vinícius
-##
-- 👩‍💻 Desenvolvedor Front-End
-- 📚 Estudando ReactJs
+# 👋 Olá! Eu sou o Marcos Vinícius
 
-##
+🎯 Transformo ideias em interfaces limpas, responsivas e funcionais.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimx&show-icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinimx&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+📍 Avaré-SP, Brasil
 
-##
+🚀 Focado no desenvolvimento com ReactJS e na criação de interfaces modernas com HTML, CSS e JavaScript.**.
 
-<div style="display: inline-block;">
-    <img height="80em" width="60em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-    <img height="80em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-    <img height="80em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img height="80em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-</div>
+🔗 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marcos-vinícius-m-75934a110)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)](https://www.instagram.com/vinimx_1)
 
-##
+---
 
-<div style="display: inline-block;">
-    <a href="https://www.linkedin.com/in/marcos-vin%C3%ADcius-m-75934a110/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/vinimx_1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</div>
+## 🛠️ Tecnologias e Ferramentas
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vinimx&show_icons=true&theme=dracula)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vinimx&layout=compact&theme=dracula)
