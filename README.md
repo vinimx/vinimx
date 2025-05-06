@@ -1,14 +1,17 @@
-# 👋 Olá! Eu sou o Marcos Vinícius
+# 👋 Olá! Eu sou o **Marcos Vinícius**
 
-🎯 Transformo ideias em interfaces limpas, responsivas e funcionais.
+🎯 **Transformo ideias em interfaces limpas, responsivas e funcionais.**
 
-📍 Avaré-SP, Brasil
+📍 **Avaré-SP, Brasil**
 
-🚀 Focado no desenvolvimento com ReactJS e na criação de interfaces modernas com HTML, CSS e JavaScript.**.
+🚀 **Focado no desenvolvimento com** `ReactJS` **e na criação de interfaces modernas com** `HTML`, `CSS` **e** `JavaScript`.
 
-🔗 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marcos-vinícius-m-75934a110)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)](https://www.instagram.com/vinimx_1)
+---
+
+## 🔗 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinícius-m-75934a110)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vinimx_1)
 
 ---
 
@@ -23,7 +26,9 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vinimx&show_icons=true&theme=dracula)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vinimx&layout=compact&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vinimx&show_icons=true&theme=dracula&hide_border=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vinimx&layout=compact&theme=dracula&hide_border=true)
+
+---
