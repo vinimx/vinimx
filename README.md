@@ -4,7 +4,7 @@
 
 📍 **Avaré-SP, Brasil**
 
-🚀 **Focado no desenvolvimento com** `ReactJS` **e na criação de interfaces modernas com** `HTML`, `CSS` **e** `JavaScript`.
+🚀 **Desenvolvedor Front-End focado no desenvolvimento com** `ReactJS` **e na criação de interfaces modernas com** `HTML`, `CSS` **e** `JavaScript`.
 
 ---
 
