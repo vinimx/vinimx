@@ -3,6 +3,7 @@
 <p align="center">
   🎯 Transformo ideias em <strong>interfaces modernas, limpas e funcionais</strong><br/>
   💻 Desenvolvedor <strong>Front-End</strong> apaixonado por criar experiências com <code>React</code>, <code>Next.js</code>, <code>TypeScript</code> e mais.<br/>
+  🕮 Estudante de Tecnologia da Informação na UNIVESP 
   📍 Avaré - SP, Brasil
 </p>
 
