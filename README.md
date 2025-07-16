@@ -1,6 +1,10 @@
 <h1 align="center">Olá, eu sou o <strong>Marcos Vinícius</strong> 👋</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&random=false&width=500&lines=Desenvolvedor+Front-End;React%2C+Next.js%2C+TypeScript" alt="Typing SVG" />
+</p>
+
+<p align="center">
   🚀 Desenvolvedor <strong>Front-End</strong> apaixonado por criar experiências digitais com<br/>
   <code>React</code> · <code>Next.js</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>Bootstrap</code> · <code>Tailwind</code><br/><br/>
   🎯 Transformo ideias em <strong>interfaces modernas, limpas e funcionais</strong><br/>
@@ -52,5 +56,13 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=header"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=vinimx&style=for-the-badge"/>
+</div>
 
 ---
