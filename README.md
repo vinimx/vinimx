@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Desenvolvedor <strong>Front-End</strong> apaixonado por criar experiências digitais com<br/>
-  <code>React</code> · <code>Next.js</code> · <code>TypeScript</code> · <code>Tailwind</code><br/><br/>
+  <code>React</code> · <code>Next.js</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>Bootstrap</code> · <code>Tailwind</code><br/><br/>
   🎯 Transformo ideias em <strong>interfaces modernas, limpas e funcionais</strong><br/>
   🎓 Estudante de Tecnologia da Informação — <strong>UNIVESP</strong><br/>
   📍 Avaré - SP, Brasil
