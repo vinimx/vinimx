@@ -12,6 +12,14 @@
   📍 Avaré - SP, Brasil
 </p>
 
+---
+
+<div align="center">
+  <a href="https://mvrocha.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-0A66C2?style=for-the-badge&logo=web&logoColor=white" />
+  </a>
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
 </div>
