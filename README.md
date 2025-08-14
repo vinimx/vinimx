@@ -1,8 +1,9 @@
 <h1 align="center">Olá, eu sou o <strong>Marcos Vinícius</strong> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=500&color=0A66C2&center=true&vCenter=true&repeat=false&width=700&lines=👋+Olá,+sou+Marcos+Vinícius;💻+Full+Stack+Developer;⚡+React+%7C+TypeScript+%7C+Java+%7C+Spring+Boot;🚀+Transformando+ideias+em+aplicações" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Ol%C3%A1,+sou+Marcos+Vin%C3%ADcius;%F0%9F%92%BB+Full+Stack+Developer;%E2%9A%A1+React+%7C+TypeScript+%7C+Java+%7C+Spring+Boot;%F0%9F%9A%80+Transformando+ideias+em+aplica%C3%A7%C3%B5es" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   🚀 Desenvolvedor <strong>Full Stack</strong> apaixonado por criar soluções completas, integrando<br/>
