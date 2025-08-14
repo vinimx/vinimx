@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o <strong>Marcos Vinícius</strong> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+FullStack+Developer;%E2%9A%A1+React+%7C+TypeScript+%7C+Java+%7C+Spring+;%F0%9F%9A%80+Transformo+ideias+em+aplica%C3%A7%C3%B5es" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=+Full+Stack+Developer;%E2%9A%A1+React+%7C+TypeScript+%7C+Java+%7C+Spring+;%F0%9F%9A%80+Transformo+ideias+em+aplica%C3%A7%C3%B5es" alt="Typing SVG" />
 </p>
 
 
