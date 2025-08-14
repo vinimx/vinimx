@@ -1,13 +1,13 @@
 <h1 align="center">Olá, eu sou o <strong>Marcos Vinícius</strong> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&random=false&width=500&lines=Desenvolvedor+Front-End;React%2C+Next.js%2C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full+Stack;React+%7C+TypeScript+%7C+Java+%7C+Spring+Boot" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  🚀 Desenvolvedor <strong>Front-End</strong> apaixonado por criar experiências digitais com<br/>
-  <code>React</code> · <code>Next.js</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>Bootstrap</code> · <code>Tailwind</code><br/><br/>
-  🎯 Transformo ideias em <strong>interfaces modernas, limpas e funcionais</strong><br/>
+  🚀 Desenvolvedor <strong>Full Stack</strong> apaixonado por criar soluções completas, integrando<br/>
+  <code>Front-End</code> e <code>Back-End</code> com performance e qualidade.<br/><br/>
+  🎯 Experiência em <strong>interfaces modernas</strong> e <strong>APIs robustas</strong><br/>
   🎓 Estudante de Tecnologia da Informação — <strong>UNIVESP</strong><br/>
   📍 Avaré - SP, Brasil
 </p>
@@ -28,8 +28,8 @@
 
 ## 🚀 Tecnologias que utilizo
 
+### **Front-End**
 <div align="center">
-
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -38,9 +38,23 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</div>
+
+### **Back-End**
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+</div>
+
+### **Ferramentas & Controle de Versão**
+<div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
 ---
@@ -72,5 +86,3 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=vinimx&style=for-the-badge"/>
 </div>
-
----
