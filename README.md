@@ -1,14 +1,13 @@
 <h1 align="center">Olá, eu sou o <strong>Marcos Vinícius</strong> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=+Full+Stack+Developer;+React+%7C+TypeScript+%7C+Java+%7C+Spring+;+Transformo+ideias+em+aplica%C3%A7%C3%B5es" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=+Full+Stack+Developer;+React+%7C+TypeScript+%7C+Node.js+%7C+Express;+Explorando+Java+%7C+Spring+Boot" alt="Typing SVG" />
 </p>
-
 
 <p align="center">
   🚀 Desenvolvedor <strong>Full Stack</strong> apaixonado por criar soluções completas, integrando<br/>
   <code>Front-End</code> e <code>Back-End</code> com performance e qualidade.<br/><br/>
-  🎯 Experiência em <strong>interfaces modernas</strong> e <strong>APIs robustas</strong><br/>
+  🎯 Experiência em <strong>interfaces modernas</strong> e <strong>APIs escaláveis</strong><br/>
   🎓 Estudante de Tecnologia da Informação — <strong>UNIVESP</strong><br/>
   📍 Avaré - SP, Brasil
 </p>
@@ -43,11 +42,16 @@
 
 ### **Back-End**
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+</div>
+
+### **Explorando Atualmente**
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </div>
 
 ### **Ferramentas & Controle de Versão**
