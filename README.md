@@ -64,8 +64,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vinimx&show_icons=true&theme=radical&hide_border=true&border_radius=8" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimx&layout=compact&theme=radical&hide_border=true&border_radius=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinimx&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinimx&theme=synthwave&hide_border=true" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimx&theme=synthwave&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 ---
