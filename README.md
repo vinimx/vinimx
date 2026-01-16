@@ -64,11 +64,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinimx&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
-  <br/><br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinimx&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimx&theme=synthwave&show_icons=true&hide_border=true&layout=compact" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinimx&theme=synthwave&hide_border=true" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimx&theme=synthwave&show_icons=true&hide_border=true&layout=compact" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinimx&theme=synthwave&hide_border=true&area=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vinimx&theme=synthwave&no-frame=true&row=1&column=7" />
 </div>
 
 ---
