@@ -64,8 +64,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinimx&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimx&theme=synthwave&show_icons=true&hide_border=true&layout=compact" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=vinimx&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimx&theme=synthwave&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 <div align="center">
