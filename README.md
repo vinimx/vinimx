@@ -2,7 +2,7 @@
 
 <p align="center">
   Desenvolvedor <strong>Full Stack Typescript</strong> focado em construir aplicações modernas, escaláveis e bem estruturadas.<br/>
-  Experiência com <strong>Front-End performático</strong> e <strong>Back-End com APIs robustas</strong> 
+  Experiência com <strong>Front-End performático</strong> e <strong>Back-End com APIs robustas</strong><br/>
   Estudante de Tecnologia da Informação — <strong>UNIVESP</strong><br/>
   📍 Avaré, São Paulo - Brasil
 </p>
