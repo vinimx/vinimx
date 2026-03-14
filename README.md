@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/🌐%20Portfólio-mvrocha.com.br-0A66C2?style=for-the-badge&logoColor=white" />
   </a>
   &nbsp;
-  <a href="linkedin.com/in/marcos-vinícius-rocha" target="_blank">
+  <a href="www.linkedin.com/in/marcos-vinícius-rocha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -198,7 +198,7 @@ Criar uma ferramenta que permita **centralizar e organizar notas fiscais automat
 
 <div align="center">
 
-<a href="linkedin.com/in/marcos-vinícius-rocha" target="_blank">
+<a href="www.linkedin.com/in/marcos-vinícius-rocha" target="_blank">
 <img src="https://img.shields.io/badge/Me%20chama%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
