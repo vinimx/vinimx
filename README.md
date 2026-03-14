@@ -31,7 +31,7 @@
 ```typescript
 const marcos = {
   nome: "Marcos Vinícius",
-  localidade: "Avaré, São Paulo 🇧🇷",
+  localidade: "Itapetininga, São Paulo 🇧🇷",
   formacao: "Tecnologia da Informação — UNIVESP",
   foco: ["Full Stack", "SaaS", "ERPs", "APIs REST"],
   atualmente: [
